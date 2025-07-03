@@ -1,1 +1,1 @@
-SELECT * FROM Books;
+SHOW COLUMNS FROM Books;
